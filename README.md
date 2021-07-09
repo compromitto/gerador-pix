@@ -1,6 +1,8 @@
 # gerador-pix
 
-Exemplo para geracao de QRCode PIX padrão BRCODE https://www.gerarpix.com.br/
+Exemplo para geracao de QRCode PIX padrão BRCODE
+
+https://gerapix.herokuapp.com/
 
 ## Setup
 
